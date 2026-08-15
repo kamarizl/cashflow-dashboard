@@ -1,6 +1,6 @@
 # Cash Flow Dashboard
 A single-file, self-contained HTML dashboard for visualizing Maybank PDF statements. Upload your statements, get an interactive daily cash flow view, no server, no install, no data leaving your browser.
-<img src="./dashboard.jpeg" alt="Screenshot" width="650" />
+<img src="./dashboard.jpeg" alt="Screenshot" width="750" />
 
 ## Features
 
